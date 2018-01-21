@@ -1,0 +1,41 @@
+#name {
+	background-color: #272822;
+	color: #ffffff;
+	font-family: "Supermercado One", cursive;
+	text-align: center;
+}
+
+#tagLine {
+	background-color: #6c6d69;
+	color: #ffffff;
+	font-family: "Supermercado One", cursive;
+	text-align: center;
+}
+
+#topMenu {
+	text-align: center;
+}
+
+.guide {
+	display: inline;
+	padding: 4%;
+}
+
+#today {
+	text-align: center;
+}
+
+#menu {
+	color: white;
+	font-family: "VT323", monospace;
+	background-color: #272822;
+	width: 100%;
+	padding-right: 2px;
+	padding-left: 2px;
+	border: 1px;
+}
+
+#subscribe {
+	background-color: gold;
+}
+
