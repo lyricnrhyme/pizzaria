@@ -1,112 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#left {
+  float: left;
+  width: 50%;
+}
+
+#right {
+  float: right;
+  width: 50%;
+}
+
+footer {
+  width: 100%;
+  float: left;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
 #name {
-	background-color: #272822;
-	color: #ffffff;
-	font-family: "Supermercado One", cursive;
-	font-size: 45px;
-	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
+  background-color: #272822;
+  color: #ffffff;
+  font-family: "Supermercado One", cursive;
+  font-size: 45px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 #tagLine {
-	background-color: #6c6d69;
-	color: #ffffff;
-	font-family: "Supermercado One", cursive;
-	text-align: center;
+  background-color: #6c6d69;
+  color: #ffffff;
+  font-family: "Supermercado One", cursive;
+  text-align: center;
 }
 
 #topMenu {
-	background-color: #272822;
-	text-align: center;
+  background-color: #272822;
+  text-align: center;
 }
 
 .guide {
-	color: #ffffff;
-	font-family: "Supermercado One", cursive;	
-	text-decoration: none;
-	display: inline;
-
+  color: #ffffff;
+  font-family: "Supermercado One", cursive;
+  text-decoration: none;
+  display: inline;
 }
 
 #today {
-	background-color: #000000;
-	color: #ffffff;
-	font-family: "Supermercado One", cursive;
-	border: 2px;
-	text-align: center;
-	padding: 10px;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Supermercado One", cursive;
+  border: 2px;
+  text-align: center;
+  padding: 10px;
 }
 
 .specialTitle {
-	font-size: 45px;
+  font-size: 45px;
 }
 
 #menu {
-	color: white;
-	font-family: "VT323", monospace;
-	background-color: #272822;
-	width: 100%;
-	height: 100%;
-	border: 1px;
+  color: white;
+  font-family: "VT323", monospace;
+  background-color: #272822;
+  height: 100%;
+  border: 1px;
 }
 .sectionTitle {
-	font-size: 50px;
-	font-weight: normal;
-	text-decoration: underline;
-	text-transform: uppercase;
-	text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .pizza {
-	background-color: #272822;
-	width: 100%;
-	padding: 2px;
-	border: 8px solid #6c6d69;
+  background-color: #272822;
+  padding: 2px;
+  border: 8px solid #6c6d69;
 }
 
 .pizzaName {
-	/*color: #f92672;*/
-	font-size: 45px;
+  /*color: #f92672;*/
+  font-size: 45px;
 }
 
 .codeRed {
-	color: #f92672;
+  color: #f92672;
 }
 
 .codeWhite {
-	color: #ffffff;
+  color: #ffffff;
 }
 
 .codeGreen {
-	color: #a6e22e;
+  color: #a6e22e;
 }
 
 .description {
-	font-size: 25px;
+  font-size: 25px;
 }
 
 .price {
-	font-size: 25px;
+  font-size: 25px;
 }
 
 .pizzaImage {
-	width: 70%;
+  width: 70%;
 }
 
 .fixedBg {
-	background-image: url ("http://www.themesltd.com/headers2/pepperoni_pizza_slices.png");
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: repeat;
+  background-image: url ("http://www.themesltd.com/headers2/pepperoni_pizza_slices.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
 }
 
 #subscribe {
-	background-color: #6c6d69;
-	color: #ffffff;
-	font-family: "VT323", monospace;
+  background-color: #6c6d69;
+  color: #ffffff;
+  font-family: "VT323", monospace;
 }
 
 #deal {
-	font-size: 28px; 
+  font-size: 28px;
 }
 
