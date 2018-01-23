@@ -5,11 +5,13 @@
 #left {
 	float: left;
 	width: 50%;
+	height: 100%;
 }
 
 #right {
 	float: right;
 	width: 50%;
+	height: 100%;
 }
 
 a {
@@ -145,6 +147,7 @@ a {
 	text-align: center;
 	font-size: 50px;
 	text-decoration: underline;
+	font-weight: normal;
 
 }
 
@@ -165,6 +168,8 @@ a {
 	height: 400px;
 }
 
+
+
 #credit {
 	background-color: #6c6d69;
 	color: #ffffff;
@@ -176,4 +181,5 @@ a {
 	background-color: #6c6d69;
 	color: #ffffff;
 	font-family: "VT323", monospace;
+	height: 70px;
 }
