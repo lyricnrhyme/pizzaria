@@ -2,6 +2,10 @@
 	margin: 0px;
 }
 
+body {
+	background-image: url("../assets/foreverpizza.gif");
+}
+
 #left {
 	float: left;
 	width: 50%;
@@ -17,6 +21,14 @@
 a {
 	text-decoration: none;
 	color: #ffffff;
+}
+
+.fixedBg {
+	background-image: url("../assets/foreverpizza.gif");
+	background-repeat: repeat;
+	height: 2000%;
+	width: auto;
+	background-position: center center;
 }
 
 #name {
@@ -148,7 +160,6 @@ a {
 	font-size: 50px;
 	text-decoration: underline;
 	font-weight: normal;
-
 }
 
 .rightBorder {
@@ -167,8 +178,6 @@ a {
 	padding-left: 20px;
 	height: 400px;
 }
-
-
 
 #credit {
 	background-color: #6c6d69;
